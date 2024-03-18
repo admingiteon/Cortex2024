@@ -9,8 +9,8 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "Cortex_REP_2023"
- # value: "Cortex_REPORTING_2024"
+  #value: "Cortex_REP_2023"
+  value: "Cortex_REPORTING_2024"
   export: override_required
 }
 
